@@ -44,3 +44,4 @@
 - 2015-03-24: Fix example
 - 2015-06-24: Adjust content
 - 2015-08-15: Update notes
+- 2015-01-26: Expand section
