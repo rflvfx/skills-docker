@@ -1,1 +1,2 @@
 - 2015-01-02 — Add practice notes
+- 2015-02-21 — Refine exercises
