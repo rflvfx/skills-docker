@@ -41,3 +41,4 @@
 - 2015-04-09: Add detail
 - 2015-03-15: Add detail
 - 2015-11-01: Adjust content
+- 2015-03-24: Fix example
