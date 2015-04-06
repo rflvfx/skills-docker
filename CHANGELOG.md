@@ -45,3 +45,4 @@
 - 2015-06-24: Adjust content
 - 2015-08-15: Update notes
 - 2015-01-26: Expand section
+- 2015-04-06: Refine text
