@@ -50,3 +50,4 @@
 - 2015-01-15: Add remark
 - 2015-05-12: Improve docs
 - 2015-01-26: Add note
+- 2015-04-13: Polish docs
