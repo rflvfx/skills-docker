@@ -48,3 +48,4 @@
 - 2015-04-06: Refine text
 - 2015-11-28: Update guide
 - 2015-01-15: Add remark
+- 2015-05-12: Improve docs
