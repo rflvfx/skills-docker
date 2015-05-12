@@ -16,3 +16,4 @@
 - 2015-09-04: Clarify section
 - 2015-07-23: Refine text
 - 2015-12-08: Refine text
+- 2015-05-12: Review content
