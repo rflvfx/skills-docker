@@ -61,3 +61,4 @@
 - 2015-11-07: Refine text
 - 2015-06-22: Add detail
 - 2015-05-07: Polish docs
+- 2015-06-10: Update guide
