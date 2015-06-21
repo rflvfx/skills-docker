@@ -73,3 +73,4 @@
 - 2015-01-15: Add remark
 - 2015-01-14: Adjust content
 - 2015-03-26: Polish docs
+- 2015-06-21: Improve docs
