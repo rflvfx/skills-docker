@@ -68,3 +68,4 @@
 - 2015-04-18: Adjust content
 - 2015-02-22: Small fix
 - 2015-06-10: Typo fix
+- 2015-07-07: Small fix
