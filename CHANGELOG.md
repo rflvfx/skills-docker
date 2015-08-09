@@ -55,3 +55,4 @@
 - 2015-12-16: Improve docs
 - 2015-01-22: Minor update
 - 2015-10-24: Add remark
+- 2015-08-09: Refine text
