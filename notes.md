@@ -13,3 +13,4 @@
 - 2015-09-15: Polish docs
 - 2015-09-19: Typo fix
 - 2015-03-23: Add remark
+- 2015-09-04: Clarify section
