@@ -10,3 +10,4 @@
 - 2015-12-09: Expand section
 - 2015-06-11: Fix example
 - 2015-02-09: Small fix
+- 2015-09-15: Polish docs
