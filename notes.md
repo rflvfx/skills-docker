@@ -11,3 +11,4 @@
 - 2015-06-11: Fix example
 - 2015-02-09: Small fix
 - 2015-09-15: Polish docs
+- 2015-09-19: Typo fix
