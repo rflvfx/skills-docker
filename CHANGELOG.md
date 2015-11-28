@@ -46,3 +46,4 @@
 - 2015-08-15: Update notes
 - 2015-01-26: Expand section
 - 2015-04-06: Refine text
+- 2015-11-28: Update guide
