@@ -64,3 +64,4 @@
 - 2015-06-10: Update guide
 - 2015-06-07: Typo fix
 - 2015-01-22: Small fix
+- 2015-12-02: Polish docs
