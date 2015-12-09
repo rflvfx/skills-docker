@@ -7,3 +7,4 @@
 - 2015-03-15: Update guide
 - 2015-08-25: Update notes
 - 2015-04-13: Adjust content
+- 2015-12-09: Expand section
