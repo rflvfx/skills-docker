@@ -104,3 +104,4 @@
 - 2016-10-07: Add remark
 - 2016-07-27: Review content
 - 2016-07-14: Fix example
+- 2016-01-06: Clarify section
