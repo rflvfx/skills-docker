@@ -113,3 +113,4 @@
 - 2016-11-09: Improve docs
 - 2016-05-09: Clarify section
 - 2016-04-22: Improve docs
+- 2016-01-13: Review content
