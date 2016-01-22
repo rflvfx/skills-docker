@@ -27,3 +27,4 @@
 - 2016-12-06: Expand section
 - 2016-12-20: Update guide
 - 2016-08-04: Clarify section
+- 2016-01-22: Expand section
