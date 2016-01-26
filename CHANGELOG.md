@@ -81,3 +81,4 @@
 - 2016-07-11: Update notes
 - 2016-03-17: Minor update
 - 2016-04-21: Improve docs
+- 2016-01-26: Update notes
