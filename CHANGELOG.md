@@ -96,3 +96,4 @@
 - 2016-11-21: Add remark
 - 2016-12-15: Update notes
 - 2016-07-03: Clarify section
+- 2016-03-23: Review content
