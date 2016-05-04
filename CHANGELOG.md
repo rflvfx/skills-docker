@@ -87,3 +87,4 @@
 - 2016-09-24: Polish docs
 - 2016-02-03: Fix example
 - 2016-03-26: Review content
+- 2016-05-04: Expand section
