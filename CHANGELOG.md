@@ -111,3 +111,4 @@
 - 2016-12-25: Polish docs
 - 2016-08-01: Expand section
 - 2016-11-09: Improve docs
+- 2016-05-09: Clarify section
