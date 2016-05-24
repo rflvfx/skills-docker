@@ -22,3 +22,4 @@
 - 2016-08-08: Add detail
 - 2016-10-27: Expand section
 - 2016-11-03: Typo fix
+- 2016-05-24: Clarify section
