@@ -77,3 +77,4 @@
 - 2016-03-23: Update notes
 - 2016-12-22: Clarify section
 - 2016-12-09: Clarify section
+- 2016-06-16: Typo fix
