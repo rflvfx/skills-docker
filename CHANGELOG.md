@@ -95,3 +95,4 @@
 - 2016-06-20: Add note
 - 2016-11-21: Add remark
 - 2016-12-15: Update notes
+- 2016-07-03: Clarify section
