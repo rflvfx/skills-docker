@@ -78,3 +78,4 @@
 - 2016-12-22: Clarify section
 - 2016-12-09: Clarify section
 - 2016-06-16: Typo fix
+- 2016-07-11: Update notes
