@@ -103,3 +103,4 @@
 - 2016-02-03: Typo fix
 - 2016-10-07: Add remark
 - 2016-07-27: Review content
+- 2016-07-14: Fix example
