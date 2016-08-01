@@ -109,3 +109,4 @@
 - 2016-08-05: Add note
 - 2016-09-21: Minor update
 - 2016-12-25: Polish docs
+- 2016-08-01: Expand section
