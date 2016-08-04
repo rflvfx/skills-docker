@@ -26,3 +26,4 @@
 - 2016-10-01: Review content
 - 2016-12-06: Expand section
 - 2016-12-20: Update guide
+- 2016-08-04: Clarify section
