@@ -106,3 +106,4 @@
 - 2016-07-14: Fix example
 - 2016-01-06: Clarify section
 - 2016-10-02: Add note
+- 2016-08-05: Add note
