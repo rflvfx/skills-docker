@@ -84,3 +84,4 @@
 - 2016-01-26: Update notes
 - 2016-12-25: Adjust content
 - 2016-05-14: Fix example
+- 2016-09-24: Polish docs
