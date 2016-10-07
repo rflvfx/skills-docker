@@ -101,3 +101,4 @@
 - 2016-07-21: Add detail
 - 2016-08-16: Clarify section
 - 2016-02-03: Typo fix
+- 2016-10-07: Add remark
