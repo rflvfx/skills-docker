@@ -90,3 +90,4 @@
 - 2016-05-04: Expand section
 - 2016-08-28: Update notes
 - 2016-02-25: Update guide
+- 2016-10-19: Add note
