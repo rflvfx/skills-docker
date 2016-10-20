@@ -6,3 +6,4 @@
 - 2015-12-07: Refine healthcheck config guide
 - 2016-06-26: Improve build args coverage
 - 2016-07-06: Review multi arch builds section
+- 2016-10-20: Improve restart policies coverage
