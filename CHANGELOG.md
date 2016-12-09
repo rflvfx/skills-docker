@@ -76,3 +76,4 @@
 - 2015-06-21: Improve docs
 - 2016-03-23: Update notes
 - 2016-12-22: Clarify section
+- 2016-12-09: Clarify section
