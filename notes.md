@@ -25,3 +25,4 @@
 - 2016-05-24: Clarify section
 - 2016-10-01: Review content
 - 2016-12-06: Expand section
+- 2016-12-20: Update guide
