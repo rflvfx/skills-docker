@@ -75,3 +75,4 @@
 - 2015-03-26: Polish docs
 - 2015-06-21: Improve docs
 - 2016-03-23: Update notes
+- 2016-12-22: Clarify section
