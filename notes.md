@@ -39,3 +39,4 @@
 - 2017-08-28: Improve docs
 - 2017-09-23: Update notes
 - 2017-06-03: Fix example
+- 2017-01-27: Refine text
