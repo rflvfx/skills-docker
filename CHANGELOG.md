@@ -128,3 +128,4 @@
 - 2017-04-15: Add remark
 - 2017-08-28: Minor update
 - 2017-12-14: Polish docs
+- 2017-02-21: Adjust content
