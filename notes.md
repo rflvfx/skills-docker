@@ -41,3 +41,4 @@
 - 2017-06-03: Fix example
 - 2017-01-27: Refine text
 - 2017-05-23: Add note
+- 2017-03-02: Refine text
