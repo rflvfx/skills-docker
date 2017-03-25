@@ -130,3 +130,4 @@
 - 2017-12-14: Polish docs
 - 2017-02-21: Adjust content
 - 2017-07-15: Typo fix
+- 2017-03-25: Clarify section
