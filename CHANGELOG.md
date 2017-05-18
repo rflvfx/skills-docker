@@ -133,3 +133,4 @@
 - 2017-03-25: Clarify section
 - 2017-01-09: Small fix
 - 2017-12-01: Refine text
+- 2017-05-18: Minor update
