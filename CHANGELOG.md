@@ -123,3 +123,4 @@
 - 2017-08-24: Adjust content
 - 2017-06-17: Improve docs
 - 2017-01-05: Small fix
+- 2017-05-23: Refine text
