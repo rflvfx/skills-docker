@@ -40,3 +40,4 @@
 - 2017-09-23: Update notes
 - 2017-06-03: Fix example
 - 2017-01-27: Refine text
+- 2017-05-23: Add note
