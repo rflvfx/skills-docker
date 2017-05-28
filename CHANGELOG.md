@@ -115,3 +115,4 @@
 - 2016-04-22: Improve docs
 - 2016-01-13: Review content
 - 2017-02-23: Update notes
+- 2017-05-28: Adjust content
