@@ -8,3 +8,4 @@
 - 2016-07-06: Review multi arch builds section
 - 2016-10-20: Improve restart policies coverage
 - 2017-01-22: Add env management notes
+- 2017-06-10: Document log drivers
