@@ -9,3 +9,4 @@
 - 2016-10-20: Improve restart policies coverage
 - 2017-01-22: Add env management notes
 - 2017-06-10: Document log drivers
+- 2017-06-26: Refine resource limits guide
