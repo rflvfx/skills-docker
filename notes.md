@@ -43,3 +43,4 @@
 - 2017-05-23: Add note
 - 2017-03-02: Refine text
 - 2017-09-11: Clarify section
+- 2017-08-03: Small fix
