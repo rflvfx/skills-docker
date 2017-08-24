@@ -120,3 +120,4 @@
 - 2017-11-18: Adjust content
 - 2017-07-20: Review content
 - 2017-02-08: Review content
+- 2017-08-24: Adjust content
