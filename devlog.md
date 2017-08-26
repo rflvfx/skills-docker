@@ -2,3 +2,4 @@
 - 2015-02-21 — Refine exercises
 - 2015-03-28 — Improve documentation
 - 2016-11-08 — Fix examples
+- 2017-08-26 — Update notes
