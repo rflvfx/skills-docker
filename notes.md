@@ -31,3 +31,4 @@
 - 2016-06-25: Clarify section
 - 2016-02-22: Improve docs
 - 2016-12-25: Add detail
+- 2017-09-10: Minor update
