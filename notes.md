@@ -37,3 +37,4 @@
 - 2017-09-14: Adjust content
 - 2017-10-19: Clarify section
 - 2017-08-28: Improve docs
+- 2017-09-23: Update notes
