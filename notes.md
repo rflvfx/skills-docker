@@ -33,3 +33,4 @@
 - 2016-12-25: Add detail
 - 2017-09-10: Minor update
 - 2017-09-26: Polish docs
+- 2017-09-24: Add detail
