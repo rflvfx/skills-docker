@@ -10,3 +10,4 @@
 - 2017-01-22: Add env management notes
 - 2017-06-10: Document log drivers
 - 2017-06-26: Refine resource limits guide
+- 2017-10-06: Review registry auth section
