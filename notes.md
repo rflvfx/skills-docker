@@ -35,3 +35,4 @@
 - 2017-09-26: Polish docs
 - 2017-09-24: Add detail
 - 2017-09-14: Adjust content
+- 2017-10-19: Clarify section
