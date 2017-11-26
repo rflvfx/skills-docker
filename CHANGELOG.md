@@ -142,3 +142,4 @@
 - 2017-04-13: Small fix
 - 2017-05-06: Refine text
 - 2017-08-24: Polish docs
+- 2017-11-26: Review content
