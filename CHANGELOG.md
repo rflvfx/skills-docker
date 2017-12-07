@@ -138,3 +138,4 @@
 - 2017-02-28: Add remark
 - 2017-04-07: Expand section
 - 2017-06-14: Polish docs
+- 2017-12-07: Clarify section
