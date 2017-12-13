@@ -146,3 +146,4 @@
 - 2017-11-15: Fix example
 - 2017-03-24: Add remark
 - 2017-10-15: Improve docs
+- 2017-12-13: Update notes
