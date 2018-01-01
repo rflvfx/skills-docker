@@ -46,3 +46,4 @@
 - 2017-08-03: Small fix
 - 2017-06-03: Fix example
 - 2017-01-01: Typo fix
+- 2018-01-01: Clarify section
