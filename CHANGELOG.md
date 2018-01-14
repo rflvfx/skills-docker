@@ -168,3 +168,4 @@
 - 2018-06-02: Add detail
 - 2018-02-18: Update guide
 - 2018-05-05: Refine text
+- 2018-01-14: Polish docs
