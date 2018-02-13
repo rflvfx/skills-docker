@@ -177,3 +177,4 @@
 - 2018-12-18: Update notes
 - 2018-12-10: Minor update
 - 2018-11-14: Small fix
+- 2018-02-13: Adjust content
