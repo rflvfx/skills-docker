@@ -166,3 +166,4 @@
 - 2018-06-05: Refine text
 - 2018-06-26: Update notes
 - 2018-06-02: Add detail
+- 2018-02-18: Update guide
