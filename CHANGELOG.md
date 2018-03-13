@@ -189,3 +189,4 @@
 - 2018-06-15: Clarify section
 - 2018-06-15: Improve docs
 - 2018-07-03: Refine text
+- 2018-03-13: Add note
