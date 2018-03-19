@@ -11,3 +11,4 @@
 - 2017-06-10: Document log drivers
 - 2017-06-26: Refine resource limits guide
 - 2017-10-06: Review registry auth section
+- 2018-03-19: Document secret mounts
