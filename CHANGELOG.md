@@ -170,3 +170,4 @@
 - 2018-05-05: Refine text
 - 2018-01-14: Polish docs
 - 2018-12-16: Expand section
+- 2018-04-21: Fix example
