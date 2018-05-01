@@ -161,3 +161,4 @@
 - 2018-06-01: Expand section
 - 2018-06-20: Expand section
 - 2018-08-21: Add remark
+- 2018-05-01: Minor update
