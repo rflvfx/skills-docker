@@ -4,3 +4,4 @@
 - 2016-11-08 — Fix examples
 - 2017-08-26 — Update notes
 - 2018-11-17 — Small fixes
+- 2018-05-02 - Add resource link
