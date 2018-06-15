@@ -186,3 +186,4 @@
 - 2018-01-07: Polish docs
 - 2018-01-02: Add remark
 - 2018-10-20: Adjust content
+- 2018-06-15: Clarify section
