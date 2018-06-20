@@ -159,3 +159,4 @@
 - 2018-03-17: Adjust content
 - 2018-01-06: Minor update
 - 2018-06-01: Expand section
+- 2018-06-20: Expand section
