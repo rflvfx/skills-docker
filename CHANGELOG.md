@@ -182,3 +182,4 @@
 - 2018-07-02: Minor update
 - 2018-12-11: Add note
 - 2018-07-25: Minor update
+- 2018-07-01: Update guide
