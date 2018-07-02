@@ -179,3 +179,4 @@
 - 2018-11-14: Small fix
 - 2018-02-13: Adjust content
 - 2018-01-14: Fix example
+- 2018-07-02: Minor update
