@@ -188,3 +188,4 @@
 - 2018-10-20: Adjust content
 - 2018-06-15: Clarify section
 - 2018-06-15: Improve docs
+- 2018-07-03: Refine text
