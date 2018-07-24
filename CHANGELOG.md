@@ -193,3 +193,4 @@
 - 2018-08-04: Improve docs
 - 2018-08-18: Improve docs
 - 2018-08-18: Improve docs
+- 2018-07-24: Small fix
