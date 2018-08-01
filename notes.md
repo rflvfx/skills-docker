@@ -47,3 +47,4 @@
 - 2017-06-03: Fix example
 - 2017-01-01: Typo fix
 - 2018-01-01: Clarify section
+- 2018-08-01: Add note
