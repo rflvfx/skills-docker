@@ -162,3 +162,4 @@
 - 2018-06-20: Expand section
 - 2018-08-21: Add remark
 - 2018-05-01: Minor update
+- 2018-08-25: Typo fix
