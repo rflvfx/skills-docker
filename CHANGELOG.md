@@ -12,3 +12,4 @@
 - 2017-06-26: Refine resource limits guide
 - 2017-10-06: Review registry auth section
 - 2018-03-19: Document secret mounts
+- 2018-10-08: Expand dev containers docs
