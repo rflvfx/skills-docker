@@ -154,3 +154,4 @@
 - 2017-08-14: Review content
 - 2017-11-12: Add note
 - 2017-03-22: Update guide
+- 2018-10-20: Update guide
