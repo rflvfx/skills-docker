@@ -50,3 +50,4 @@
 - 2018-08-01: Add note
 - 2018-04-15: Update notes
 - 2018-10-15: Update notes
+- 2018-10-21: Add remark
