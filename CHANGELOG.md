@@ -155,3 +155,4 @@
 - 2017-11-12: Add note
 - 2017-03-22: Update guide
 - 2018-10-20: Update guide
+- 2018-10-28: Expand section
