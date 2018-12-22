@@ -54,3 +54,4 @@
 - 2018-01-09: Minor update
 - 2018-10-17: Small fix
 - 2018-02-22: Adjust content
+- 2018-12-22: Typo fix
