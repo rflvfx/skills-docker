@@ -223,3 +223,4 @@
 - 2019-01-17: Improve docs
 - 2019-06-23: Add remark
 - 2019-04-09: Add detail
+- 2019-02-09: Clarify section
