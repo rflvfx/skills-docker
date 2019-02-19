@@ -59,3 +59,4 @@
 - 2018-01-08: Small fix
 - 2018-12-13: Typo fix
 - 2019-04-27: Add remark
+- 2019-02-19: Update guide
