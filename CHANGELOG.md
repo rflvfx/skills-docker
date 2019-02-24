@@ -196,3 +196,4 @@
 - 2018-07-24: Small fix
 - 2018-12-02: Update notes
 - 2019-09-16: Expand section
+- 2019-02-24: Update guide
