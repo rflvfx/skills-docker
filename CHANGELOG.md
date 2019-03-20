@@ -200,3 +200,4 @@
 - 2019-01-11: Small fix
 - 2019-06-15: Expand section
 - 2019-12-14: Add note
+- 2019-03-20: Improve docs
