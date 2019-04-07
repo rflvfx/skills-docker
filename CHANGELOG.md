@@ -211,3 +211,4 @@
 - 2019-01-12: Review content
 - 2019-04-22: Improve docs
 - 2019-03-22: Improve docs
+- 2019-04-07: Update notes
