@@ -222,3 +222,4 @@
 - 2019-03-13: Adjust content
 - 2019-01-17: Improve docs
 - 2019-06-23: Add remark
+- 2019-04-09: Add detail
