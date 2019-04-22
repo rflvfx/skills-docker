@@ -209,3 +209,4 @@
 - 2019-06-19: Clarify section
 - 2019-06-21: Refine text
 - 2019-01-12: Review content
+- 2019-04-22: Improve docs
