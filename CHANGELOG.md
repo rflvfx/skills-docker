@@ -215,3 +215,4 @@
 - 2019-01-21: Update notes
 - 2019-07-15: Clarify section
 - 2019-03-05: Expand section
+- 2019-05-22: Clarify section
