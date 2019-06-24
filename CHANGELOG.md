@@ -230,3 +230,4 @@
 - 2019-07-02: Adjust content
 - 2019-02-21: Typo fix
 - 2019-04-20: Expand section
+- 2019-06-24: Add detail
