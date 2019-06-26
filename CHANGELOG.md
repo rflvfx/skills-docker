@@ -205,3 +205,4 @@
 - 2019-06-10: Adjust content
 - 2019-08-11: Update notes
 - 2019-12-03: Small fix
+- 2019-06-26: Improve docs
