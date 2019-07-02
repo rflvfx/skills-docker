@@ -227,3 +227,4 @@
 - 2019-03-08: Add detail
 - 2019-03-23: Add note
 - 2019-07-02: Add detail
+- 2019-07-02: Adjust content
