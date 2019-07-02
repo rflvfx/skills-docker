@@ -226,3 +226,4 @@
 - 2019-02-09: Clarify section
 - 2019-03-08: Add detail
 - 2019-03-23: Add note
+- 2019-07-02: Add detail
