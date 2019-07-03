@@ -60,3 +60,4 @@
 - 2018-12-13: Typo fix
 - 2019-04-27: Add remark
 - 2019-02-19: Update guide
+- 2019-07-03: Refine text
