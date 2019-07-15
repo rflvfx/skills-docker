@@ -213,3 +213,4 @@
 - 2019-03-22: Improve docs
 - 2019-04-07: Update notes
 - 2019-01-21: Update notes
+- 2019-07-15: Clarify section
