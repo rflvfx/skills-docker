@@ -203,3 +203,4 @@
 - 2019-03-20: Improve docs
 - 2019-01-12: Improve docs
 - 2019-06-10: Adjust content
+- 2019-08-11: Update notes
