@@ -231,3 +231,4 @@
 - 2019-02-21: Typo fix
 - 2019-04-20: Expand section
 - 2019-06-24: Add detail
+- 2019-09-05: Clarify section
