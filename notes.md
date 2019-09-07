@@ -69,3 +69,4 @@
 - 2019-12-03: Update guide
 - 2019-05-21: Add remark
 - 2019-12-24: Update guide
+- 2019-09-07: Update notes
