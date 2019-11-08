@@ -62,3 +62,4 @@
 - 2019-02-19: Update guide
 - 2019-07-03: Refine text
 - 2019-11-15: Minor update
+- 2019-11-08: Fix example
