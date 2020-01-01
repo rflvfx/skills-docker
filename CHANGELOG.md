@@ -280,3 +280,4 @@
 - 2020-03-01: Clarify section
 - 2020-08-01: Update guide
 - 2020-07-27: Improve docs
+- 2020-01-01: Adjust content
