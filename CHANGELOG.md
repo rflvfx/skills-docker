@@ -247,3 +247,4 @@
 - 2020-03-12: Refine text
 - 2020-11-05: Add remark
 - 2020-02-16: Update notes
+- 2020-01-26: Adjust content
