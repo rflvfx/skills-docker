@@ -246,3 +246,4 @@
 - 2020-08-08: Minor update
 - 2020-03-12: Refine text
 - 2020-11-05: Add remark
+- 2020-02-16: Update notes
