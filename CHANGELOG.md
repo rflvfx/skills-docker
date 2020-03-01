@@ -272,3 +272,4 @@
 - 2020-03-24: Typo fix
 - 2020-03-12: Polish docs
 - 2020-12-08: Expand section
+- 2020-03-01: Add detail
