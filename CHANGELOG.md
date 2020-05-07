@@ -264,3 +264,4 @@
 - 2020-10-15: Fix example
 - 2020-09-15: Add detail
 - 2020-06-20: Review content
+- 2020-05-07: Add detail
