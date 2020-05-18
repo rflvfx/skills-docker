@@ -282,3 +282,4 @@
 - 2020-07-27: Improve docs
 - 2020-01-01: Adjust content
 - 2020-10-19: Small fix
+- 2020-05-18: Update notes
