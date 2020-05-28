@@ -76,3 +76,4 @@
 - 2020-08-08: Improve docs
 - 2020-07-15: Clarify section
 - 2020-05-19: Improve docs
+- 2020-05-28: Clarify section
