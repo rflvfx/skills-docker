@@ -13,3 +13,4 @@
 - 2017-10-06: Review registry auth section
 - 2018-03-19: Document secret mounts
 - 2018-10-08: Expand dev containers docs
+- 2020-06-08: Review multi arch builds section
