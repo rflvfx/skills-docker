@@ -263,3 +263,4 @@
 - 2020-02-26: Add note
 - 2020-10-15: Fix example
 - 2020-09-15: Add detail
+- 2020-06-20: Review content
