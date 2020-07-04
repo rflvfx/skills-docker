@@ -72,3 +72,4 @@
 - 2019-09-07: Update notes
 - 2019-02-07: Clarify section
 - 2019-06-22: Update guide
+- 2020-07-04: Small fix
