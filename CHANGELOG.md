@@ -242,3 +242,4 @@
 - 2020-09-08: Adjust content
 - 2020-04-17: Expand section
 - 2020-08-26: Improve docs
+- 2020-07-07: Clarify section
