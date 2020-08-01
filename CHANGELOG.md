@@ -278,3 +278,4 @@
 - 2020-12-07: Refine text
 - 2020-10-06: Add note
 - 2020-03-01: Clarify section
+- 2020-08-01: Update guide
