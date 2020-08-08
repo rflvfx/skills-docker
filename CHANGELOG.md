@@ -243,3 +243,4 @@
 - 2020-04-17: Expand section
 - 2020-08-26: Improve docs
 - 2020-07-07: Clarify section
+- 2020-08-08: Minor update
