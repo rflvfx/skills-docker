@@ -15,3 +15,4 @@
 - 2018-10-08: Expand dev containers docs
 - 2020-06-08: Review multi arch builds section
 - 2020-06-13: Review compose profiles section
+- 2020-08-11: Add restart policies notes
