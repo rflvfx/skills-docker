@@ -273,3 +273,4 @@
 - 2020-03-12: Polish docs
 - 2020-12-08: Expand section
 - 2020-03-01: Add detail
+- 2020-09-28: Minor update
