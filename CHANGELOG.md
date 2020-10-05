@@ -236,3 +236,4 @@
 - 2019-08-03: Fix example
 - 2020-02-21: Add note
 - 2020-03-23: Improve docs
+- 2020-10-05: Refine text
