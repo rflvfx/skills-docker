@@ -258,3 +258,4 @@
 - 2020-01-15: Expand section
 - 2020-01-07: Update guide
 - 2020-12-03: Expand section
+- 2020-10-08: Update notes
