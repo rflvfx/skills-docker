@@ -261,3 +261,4 @@
 - 2020-10-08: Update notes
 - 2020-11-01: Small fix
 - 2020-02-26: Add note
+- 2020-10-15: Fix example
