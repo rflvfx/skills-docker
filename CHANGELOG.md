@@ -281,3 +281,4 @@
 - 2020-08-01: Update guide
 - 2020-07-27: Improve docs
 - 2020-01-01: Adjust content
+- 2020-10-19: Small fix
