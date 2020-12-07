@@ -275,3 +275,4 @@
 - 2020-03-01: Add detail
 - 2020-09-28: Minor update
 - 2020-07-23: Adjust content
+- 2020-12-07: Refine text
