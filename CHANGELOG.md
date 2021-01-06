@@ -312,3 +312,4 @@
 - 2021-05-20: Update guide
 - 2021-10-07: Expand section
 - 2021-03-01: Improve docs
+- 2021-01-06: Minor update
