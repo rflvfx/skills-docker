@@ -78,3 +78,4 @@
 - 2020-05-19: Improve docs
 - 2020-05-28: Clarify section
 - 2020-02-03: Adjust content
+- 2021-03-24: Refine text
