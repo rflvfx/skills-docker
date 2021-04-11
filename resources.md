@@ -1,2 +1,3 @@
 - 2016-11-16: Add resource link (skills-docker)
 - 2018-09-16: Add usage example (skills-docker)
+- 2021-04-11: Improve explanation (skills-docker)
