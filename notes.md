@@ -83,3 +83,4 @@
 - 2021-12-09: Fix example
 - 2021-01-27: Add remark
 - 2021-01-25: Review content
+- 2021-04-18: Polish docs
