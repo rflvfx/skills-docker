@@ -84,3 +84,4 @@
 - 2021-01-27: Add remark
 - 2021-01-25: Review content
 - 2021-04-18: Polish docs
+- 2021-05-03: Clarify section
