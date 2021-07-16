@@ -294,3 +294,4 @@
 - 2021-01-24: Small fix
 - 2021-10-22: Adjust content
 - 2021-11-18: Refine text
+- 2021-07-16: Polish docs
