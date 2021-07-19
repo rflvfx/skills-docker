@@ -302,3 +302,4 @@
 - 2021-05-22: Add note
 - 2021-05-25: Review content
 - 2021-09-05: Adjust content
+- 2021-07-19: Add detail
