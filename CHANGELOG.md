@@ -304,3 +304,4 @@
 - 2021-09-05: Adjust content
 - 2021-07-19: Add detail
 - 2021-01-05: Improve docs
+- 2021-09-05: Typo fix
