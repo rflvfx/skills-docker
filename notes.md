@@ -92,3 +92,4 @@
 - 2021-02-05: Add detail
 - 2021-05-14: Minor update
 - 2021-07-09: Improve docs
+- 2021-09-27: Clarify section
