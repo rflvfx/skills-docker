@@ -310,3 +310,4 @@
 - 2021-03-05: Fix example
 - 2021-02-16: Review content
 - 2021-05-20: Update guide
+- 2021-10-07: Expand section
