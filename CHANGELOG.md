@@ -286,3 +286,4 @@
 - 2020-09-07: Add remark
 - 2021-04-24: Clarify section
 - 2021-10-07: Add detail
+- 2021-11-13: Adjust content
