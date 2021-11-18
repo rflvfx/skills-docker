@@ -293,3 +293,4 @@
 - 2021-11-07: Review content
 - 2021-01-24: Small fix
 - 2021-10-22: Adjust content
+- 2021-11-18: Refine text
