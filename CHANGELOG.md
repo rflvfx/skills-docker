@@ -297,3 +297,4 @@
 - 2021-07-16: Polish docs
 - 2021-05-24: Review content
 - 2021-03-19: Update guide
+- 2021-11-20: Add note
