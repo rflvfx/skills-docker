@@ -288,3 +288,4 @@
 - 2021-10-07: Add detail
 - 2021-11-13: Adjust content
 - 2021-07-11: Expand section
+- 2021-11-24: Review content
