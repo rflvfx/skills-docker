@@ -17,3 +17,4 @@
 - 2020-06-13: Review compose profiles section
 - 2020-08-11: Add restart policies notes
 - 2021-07-14: Improve env management coverage
+- 2021-12-10: Add registry auth examples
