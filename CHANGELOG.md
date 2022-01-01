@@ -348,3 +348,4 @@
 - 2022-11-14: Clarify section
 - 2022-07-27: Polish docs
 - 2022-07-12: Expand section
+- 2022-01-01: Improve docs
