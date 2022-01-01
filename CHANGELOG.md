@@ -351,3 +351,4 @@
 - 2022-01-01: Improve docs
 - 2022-06-11: Add note
 - 2022-09-18: Update notes
+- 2022-01-01: Improve docs
