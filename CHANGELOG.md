@@ -31,3 +31,4 @@
 - 2026-06-20: Document entrypoint scripts
 - 2026-09-18: Add dev containers examples
 - 2026-10-09: Review layer caching section
+- 2022-02-19: Refine image slimming guide
