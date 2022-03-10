@@ -103,3 +103,4 @@
 - 2022-04-08: Typo fix
 - 2022-01-08: Clarify section
 - 2022-11-27: Clarify section
+- 2022-03-10: Small fix
