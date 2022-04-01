@@ -104,3 +104,4 @@
 - 2022-01-08: Clarify section
 - 2022-11-27: Clarify section
 - 2022-03-10: Small fix
+- 2022-04-01: Polish docs
