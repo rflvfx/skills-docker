@@ -100,3 +100,4 @@
 - 2022-10-07: Review content
 - 2022-08-17: Small fix
 - 2022-10-04: Fix example
+- 2022-04-08: Typo fix
