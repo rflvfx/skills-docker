@@ -344,3 +344,4 @@
 - 2022-08-27: Typo fix
 - 2022-02-10: Add detail
 - 2022-03-18: Improve docs
+- 2022-06-12: Improve docs
