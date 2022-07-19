@@ -94,3 +94,4 @@
 - 2021-07-09: Improve docs
 - 2021-09-27: Clarify section
 - 2021-02-06: Update notes
+- 2022-07-19: Improve docs
