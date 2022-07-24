@@ -106,3 +106,4 @@
 - 2022-03-10: Small fix
 - 2022-04-01: Polish docs
 - 2022-12-25: Improve docs
+- 2022-07-24: Expand section
