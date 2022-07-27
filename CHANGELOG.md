@@ -346,3 +346,4 @@
 - 2022-03-18: Improve docs
 - 2022-06-12: Improve docs
 - 2022-11-14: Clarify section
+- 2022-07-27: Polish docs
