@@ -341,3 +341,4 @@
 - 2022-05-08: Review content
 - 2022-05-03: Adjust content
 - 2022-01-06: Fix example
+- 2022-08-27: Typo fix
