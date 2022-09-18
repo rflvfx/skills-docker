@@ -329,3 +329,4 @@
 - 2022-10-05: Refine text
 - 2022-01-20: Clarify section
 - 2022-09-23: Adjust content
+- 2022-09-18: Adjust content
