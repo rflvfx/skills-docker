@@ -333,3 +333,4 @@
 - 2022-12-19: Refine text
 - 2022-11-24: Refine text
 - 2022-12-01: Clarify section
+- 2022-09-19: Polish docs
