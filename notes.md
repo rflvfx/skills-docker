@@ -102,3 +102,4 @@
 - 2022-10-04: Fix example
 - 2022-04-08: Typo fix
 - 2022-01-08: Clarify section
+- 2022-11-27: Clarify section
