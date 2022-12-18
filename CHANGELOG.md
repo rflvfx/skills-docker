@@ -356,3 +356,4 @@
 - 2022-02-06: Update guide
 - 2022-09-07: Add note
 - 2022-01-08: Minor update
+- 2022-12-18: Update guide
