@@ -382,3 +382,4 @@
 - 2023-12-24: Polish docs
 - 2023-02-22: Improve docs
 - 2023-08-17: Add note
+- 2023-01-17: Update guide
