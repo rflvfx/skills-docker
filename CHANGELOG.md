@@ -380,3 +380,4 @@
 - 2023-01-04: Add note
 - 2023-03-20: Fix example
 - 2023-12-24: Polish docs
+- 2023-02-22: Improve docs
