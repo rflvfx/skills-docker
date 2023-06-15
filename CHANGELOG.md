@@ -402,3 +402,4 @@
 - 2023-07-21: Polish docs
 - 2023-08-26: Update guide
 - 2023-03-04: Improve docs
+- 2023-06-15: Expand section
