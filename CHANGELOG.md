@@ -381,3 +381,4 @@
 - 2023-03-20: Fix example
 - 2023-12-24: Polish docs
 - 2023-02-22: Improve docs
+- 2023-08-17: Add note
