@@ -374,3 +374,4 @@
 - 2023-04-02: Add remark
 - 2023-01-09: Update guide
 - 2023-07-01: Small fix
+- 2023-10-02: Update notes
