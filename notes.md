@@ -119,3 +119,4 @@
 - 2023-10-16: Fix example
 - 2023-06-27: Clarify section
 - 2023-07-17: Add note
+- 2023-11-21: Clarify section
