@@ -20,3 +20,4 @@
 - 2021-12-10: Add registry auth examples
 - 2023-10-03: Update volume mounts reference
 - 2023-11-06: Improve network bridges coverage
+- 2023-12-05: Update healthcheck config reference
