@@ -404,3 +404,4 @@
 - 2023-03-04: Improve docs
 - 2023-06-15: Expand section
 - 2023-12-09: Minor update
+- 2023-12-22: Small fix
