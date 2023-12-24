@@ -379,3 +379,4 @@
 - 2023-03-07: Add note
 - 2023-01-04: Add note
 - 2023-03-20: Fix example
+- 2023-12-24: Polish docs
