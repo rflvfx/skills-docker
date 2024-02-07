@@ -412,3 +412,4 @@
 - 2024-11-16: Polish docs
 - 2024-12-13: Add remark
 - 2024-06-13: Small fix
+- 2024-02-07: Expand section
