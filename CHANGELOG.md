@@ -33,3 +33,4 @@
 - 2026-10-09: Review layer caching section
 - 2022-02-19: Refine image slimming guide
 - 2023-05-12: Review volume mounts section
+- 2024-02-08: Add build args notes
