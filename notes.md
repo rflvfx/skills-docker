@@ -133,3 +133,4 @@
 - 2024-04-07: Expand section
 - 2024-10-16: Add detail
 - 2024-03-22: Review content
+- 2024-03-09: Update guide
