@@ -427,3 +427,4 @@
 - 2024-09-17: Typo fix
 - 2024-12-24: Clarify section
 - 2024-05-12: Fix example
+- 2024-04-02: Fix example
