@@ -130,3 +130,4 @@
 - 2024-04-25: Refine text
 - 2024-05-05: Update notes
 - 2024-09-01: Add remark
+- 2024-04-07: Expand section
