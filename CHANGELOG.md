@@ -22,3 +22,4 @@
 - 2023-11-06: Improve network bridges coverage
 - 2023-12-05: Update healthcheck config reference
 - 2024-01-18: Review build args section
+- 2024-06-10: Add multi arch builds notes
