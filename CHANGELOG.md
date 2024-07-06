@@ -417,3 +417,4 @@
 - 2024-04-01: Add note
 - 2024-09-06: Clarify section
 - 2024-05-10: Minor update
+- 2024-07-06: Adjust content
