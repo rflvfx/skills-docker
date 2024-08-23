@@ -124,3 +124,4 @@
 - 2024-05-24: Update guide
 - 2024-11-18: Expand section
 - 2024-01-20: Add detail
+- 2024-08-23: Add detail
