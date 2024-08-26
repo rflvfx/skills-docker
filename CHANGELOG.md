@@ -441,3 +441,4 @@
 - 2024-07-20: Improve docs
 - 2024-11-25: Minor update
 - 2024-12-08: Review content
+- 2024-08-26: Update notes
