@@ -420,3 +420,4 @@
 - 2024-07-06: Adjust content
 - 2024-09-06: Small fix
 - 2024-02-14: Small fix
+- 2024-09-03: Clarify section
