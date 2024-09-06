@@ -415,3 +415,4 @@
 - 2024-02-07: Expand section
 - 2024-04-15: Add note
 - 2024-04-01: Add note
+- 2024-09-06: Clarify section
