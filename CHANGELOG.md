@@ -430,3 +430,4 @@
 - 2024-04-02: Fix example
 - 2024-10-22: Small fix
 - 2024-06-13: Expand section
+- 2024-10-22: Polish docs
