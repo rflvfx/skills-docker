@@ -122,3 +122,4 @@
 - 2023-11-21: Clarify section
 - 2024-12-05: Update notes
 - 2024-05-24: Update guide
+- 2024-11-18: Expand section
