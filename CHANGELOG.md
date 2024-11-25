@@ -439,3 +439,4 @@
 - 2024-12-14: Improve docs
 - 2024-06-12: Fix example
 - 2024-07-20: Improve docs
+- 2024-11-25: Minor update
