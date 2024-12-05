@@ -120,3 +120,4 @@
 - 2023-06-27: Clarify section
 - 2023-07-17: Add note
 - 2023-11-21: Clarify section
+- 2024-12-05: Update notes
