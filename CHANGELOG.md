@@ -434,3 +434,4 @@
 - 2024-12-06: Expand section
 - 2024-11-05: Small fix
 - 2024-10-06: Clarify section
+- 2024-12-12: Refine text
