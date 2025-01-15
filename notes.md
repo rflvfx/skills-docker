@@ -138,3 +138,4 @@
 - 2024-08-24: Fix example
 - 2024-04-10: Add detail
 - 2024-01-25: Fix example
+- 2025-01-15: Clarify section
