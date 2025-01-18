@@ -444,3 +444,4 @@
 - 2024-08-26: Update notes
 - 2024-07-14: Update guide
 - 2025-01-15: Small fix
+- 2025-01-18: Expand section
