@@ -142,3 +142,4 @@
 - 2025-02-03: Improve docs
 - 2025-03-18: Small fix
 - 2025-02-08: Update guide
+- 2025-01-20: Review content
