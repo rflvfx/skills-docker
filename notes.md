@@ -139,3 +139,4 @@
 - 2024-04-10: Add detail
 - 2024-01-25: Fix example
 - 2025-01-15: Clarify section
+- 2025-02-03: Improve docs
