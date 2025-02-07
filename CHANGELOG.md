@@ -475,3 +475,4 @@
 - 2025-09-24: Typo fix
 - 2025-11-27: Clarify section
 - 2025-12-16: Improve docs
+- 2025-02-07: Adjust content
