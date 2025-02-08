@@ -141,3 +141,4 @@
 - 2025-01-15: Clarify section
 - 2025-02-03: Improve docs
 - 2025-03-18: Small fix
+- 2025-02-08: Update guide
