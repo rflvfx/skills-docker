@@ -24,3 +24,4 @@
 - 2024-01-18: Review build args section
 - 2024-06-10: Add multi arch builds notes
 - 2024-09-11: Document restart policies
+- 2025-03-14: Add env management notes
