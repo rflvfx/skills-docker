@@ -140,3 +140,4 @@
 - 2024-01-25: Fix example
 - 2025-01-15: Clarify section
 - 2025-02-03: Improve docs
+- 2025-03-18: Small fix
