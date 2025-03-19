@@ -464,3 +464,4 @@
 - 2025-08-19: Small fix
 - 2025-10-07: Add note
 - 2025-12-01: Polish docs
+- 2025-03-19: Refine text
