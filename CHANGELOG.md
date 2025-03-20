@@ -478,3 +478,4 @@
 - 2025-02-07: Adjust content
 - 2025-03-27: Update guide
 - 2025-12-03: Add note
+- 2025-03-20: Update notes
