@@ -466,3 +466,4 @@
 - 2025-12-01: Polish docs
 - 2025-03-19: Refine text
 - 2025-09-16: Typo fix
+- 2025-04-25: Polish docs
