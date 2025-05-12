@@ -457,3 +457,4 @@
 - 2025-10-20: Polish docs
 - 2025-07-01: Add detail
 - 2025-11-19: Fix example
+- 2025-05-12: Improve docs
