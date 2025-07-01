@@ -455,3 +455,4 @@
 - 2025-06-02: Clarify section
 - 2025-11-27: Update notes
 - 2025-10-20: Polish docs
+- 2025-07-01: Add detail
