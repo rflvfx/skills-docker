@@ -481,3 +481,4 @@
 - 2025-03-20: Update notes
 - 2025-05-08: Update notes
 - 2025-12-21: Update guide
+- 2025-07-11: Clarify section
