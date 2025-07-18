@@ -487,3 +487,4 @@
 - 2025-08-01: Expand section
 - 2025-01-25: Small fix
 - 2025-10-13: Typo fix
+- 2025-07-18: Polish docs
