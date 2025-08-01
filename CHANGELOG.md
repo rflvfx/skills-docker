@@ -484,3 +484,4 @@
 - 2025-07-11: Clarify section
 - 2025-12-02: Clarify section
 - 2025-06-16: Fix example
+- 2025-08-01: Expand section
