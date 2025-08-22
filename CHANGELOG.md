@@ -446,3 +446,4 @@
 - 2025-01-15: Small fix
 - 2025-01-18: Expand section
 - 2025-11-08: Small fix
+- 2025-08-22: Refine text
