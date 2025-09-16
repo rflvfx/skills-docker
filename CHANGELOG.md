@@ -465,3 +465,4 @@
 - 2025-10-07: Add note
 - 2025-12-01: Polish docs
 - 2025-03-19: Refine text
+- 2025-09-16: Typo fix
