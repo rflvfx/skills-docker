@@ -462,3 +462,4 @@
 - 2025-10-09: Small fix
 - 2025-01-22: Update notes
 - 2025-08-19: Small fix
+- 2025-10-07: Add note
