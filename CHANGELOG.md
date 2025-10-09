@@ -459,3 +459,4 @@
 - 2025-11-19: Fix example
 - 2025-05-12: Improve docs
 - 2025-08-26: Typo fix
+- 2025-10-09: Small fix
