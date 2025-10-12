@@ -451,3 +451,4 @@
 - 2025-04-18: Fix example
 - 2025-07-03: Add note
 - 2025-05-24: Clarify section
+- 2025-10-12: Update guide
