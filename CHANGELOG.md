@@ -486,3 +486,4 @@
 - 2025-06-16: Fix example
 - 2025-08-01: Expand section
 - 2025-01-25: Small fix
+- 2025-10-13: Typo fix
