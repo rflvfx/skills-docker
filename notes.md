@@ -144,3 +144,4 @@
 - 2025-02-08: Update guide
 - 2025-01-20: Review content
 - 2025-07-18: Expand section
+- 2025-10-21: Minor update
