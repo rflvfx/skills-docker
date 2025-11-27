@@ -453,3 +453,4 @@
 - 2025-05-24: Clarify section
 - 2025-10-12: Update guide
 - 2025-06-02: Clarify section
+- 2025-11-27: Update notes
