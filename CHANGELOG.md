@@ -463,3 +463,4 @@
 - 2025-01-22: Update notes
 - 2025-08-19: Small fix
 - 2025-10-07: Add note
+- 2025-12-01: Polish docs
