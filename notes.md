@@ -148,3 +148,4 @@
 - 2025-12-17: Review content
 - 2026-02-03: Add note
 - 2026-12-04: Add detail
+- 2026-01-13: Add remark
