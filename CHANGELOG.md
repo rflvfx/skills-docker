@@ -510,3 +510,4 @@
 - 2026-02-10: Polish docs
 - 2026-02-02: Add note
 - 2026-07-10: Adjust content
+- 2026-01-19: Small fix
