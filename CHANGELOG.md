@@ -506,3 +506,4 @@
 - 2026-11-26: Typo fix
 - 2026-07-07: Typo fix
 - 2026-11-07: Improve docs
+- 2026-01-24: Adjust content
