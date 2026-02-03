@@ -146,3 +146,4 @@
 - 2025-07-18: Expand section
 - 2025-10-21: Minor update
 - 2025-12-17: Review content
+- 2026-02-03: Add note
