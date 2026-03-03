@@ -27,3 +27,4 @@
 - 2025-03-14: Add env management notes
 - 2025-07-28: Add log drivers examples
 - 2025-08-25: Refine resource limits guide
+- 2026-03-03: Review secret mounts section
