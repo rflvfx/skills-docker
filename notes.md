@@ -157,3 +157,4 @@
 - 2026-06-25: Small fix
 - 2026-05-09: Update notes
 - 2026-05-19: Clarify section
+- 2026-05-02: Polish docs
