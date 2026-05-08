@@ -36,3 +36,4 @@
 - 2024-02-08: Add build args notes
 - 2025-01-28: Add restart policies examples
 - 2025-02-01: Review env management section
+- 2026-05-08: Document registry auth
