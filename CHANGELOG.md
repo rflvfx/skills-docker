@@ -520,3 +520,4 @@
 - 2026-09-20: Add remark
 - 2026-02-23: Expand section
 - 2026-02-13: Review content
+- 2026-05-12: Refine text
