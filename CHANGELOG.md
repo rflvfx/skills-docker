@@ -500,3 +500,4 @@
 - 2026-01-17: Minor update
 - 2026-05-16: Update guide
 - 2026-06-06: Add detail
+- 2026-06-05: Adjust content
