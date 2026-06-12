@@ -495,3 +495,4 @@
 - 2026-11-08: Review content
 - 2026-05-13: Update notes
 - 2026-10-27: Add remark
+- 2026-06-12: Improve docs
