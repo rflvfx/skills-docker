@@ -160,3 +160,4 @@
 - 2026-05-02: Polish docs
 - 2026-08-07: Review content
 - 2026-10-27: Fix example
+- 2026-08-15: Refine text
