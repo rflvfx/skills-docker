@@ -501,3 +501,4 @@
 - 2026-05-16: Update guide
 - 2026-06-06: Add detail
 - 2026-06-05: Adjust content
+- 2026-09-09: Review content
