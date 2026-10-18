@@ -151,3 +151,4 @@
 - 2026-01-13: Add remark
 - 2026-01-07: Polish docs
 - 2026-04-17: Add remark
+- 2026-10-18: Update notes
