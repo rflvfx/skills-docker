@@ -522,3 +522,4 @@
 - 2026-02-13: Review content
 - 2026-05-12: Refine text
 - 2026-06-06: Polish docs
+- 2026-10-27: Adjust content
