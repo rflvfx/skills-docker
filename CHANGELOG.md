@@ -489,3 +489,4 @@
 - 2025-10-13: Typo fix
 - 2025-07-18: Polish docs
 - 2025-02-17: Review content
+- 2026-11-14: Add detail
