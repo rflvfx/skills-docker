@@ -503,3 +503,4 @@
 - 2026-06-05: Adjust content
 - 2026-09-09: Review content
 - 2026-11-03: Add remark
+- 2026-11-26: Typo fix
